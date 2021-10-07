@@ -27,9 +27,9 @@ try:
     )
     element.click()
     user = driver.find_element_by_name("j_username")
-    user.send_keys("shara98")
+    user.send_keys("enter username")
     password = driver.find_element_by_name("j_password")
-    password.send_keys("Vandnaa13-")
+    password.send_keys("enter password")
 
     login = driver.find_element_by_name("_eventId_proceed")
     login.click()
