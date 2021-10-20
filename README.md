@@ -27,7 +27,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/github_username/gymregistrationbot">
+  <a href="https://github.com/akash5852/gymregistrationbot">
     <img src="pulse logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -36,7 +36,7 @@
   <p align="center">
     A bot that automatically registers someone for the pulse gym.
     <br />
-    <a href="https://github.com/github_username/gymregistrationbot"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/akash5852/gymregistrationbot"><strong>Explore the docs »</strong></a>
   </p>
 </p>
 
