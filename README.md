@@ -36,7 +36,7 @@
   <p align="center">
     A bot that automatically registers someone for the pulse gym.
     <br />
-    <a href="https://github.com/akash5852/gymregistrationbot"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/akash5852/gymregistrationbot#readme"><strong>Explore the docs »</strong></a>
   </p>
 </p>
 
